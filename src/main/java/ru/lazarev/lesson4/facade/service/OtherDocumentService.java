@@ -1,6 +1,4 @@
-package ru.lazarev.facade.service;
-
-import ru.lazarev.facade.document.Order;
+package ru.lazarev.lesson4.facade.service;
 
 public interface OtherDocumentService {
         OtherDocumentService getOrderById(Long id);

@@ -1,7 +1,7 @@
-package ru.lazarev.factory.factories;
+package ru.lazarev.lesson3.factory.factories;
 
-import ru.lazarev.factory.document.Document;
-import ru.lazarev.factory.document.OtherDocument;
+import ru.lazarev.lesson3.factory.document.Document;
+import ru.lazarev.lesson3.factory.document.OtherDocument;
 
 public class OtherManager extends Manager {
 

@@ -1,8 +1,8 @@
-package ru.lazarev.factory;
+package ru.lazarev.lesson3.factory;
 
 
-import ru.lazarev.factory.document.Document;
-import ru.lazarev.factory.factories.Manager;
+import ru.lazarev.lesson3.factory.document.Document;
+import ru.lazarev.lesson3.factory.factories.Manager;
 
 public class App {
     private static Manager manager;

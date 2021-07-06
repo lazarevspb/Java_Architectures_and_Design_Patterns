@@ -1,9 +1,9 @@
-package ru.lazarev.facade.document;
+package ru.lazarev.lesson3.factory.document;
 
-public class OtherDocument implements Document {
+public class Order implements Document{
     @Override
     public Document copy() {
-        return new OtherDocument();
+        return new Order();
     }
 
     @Override

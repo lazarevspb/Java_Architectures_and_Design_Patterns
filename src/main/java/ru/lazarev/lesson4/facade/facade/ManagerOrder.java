@@ -1,6 +1,6 @@
-package ru.lazarev.facade.facade;
+package ru.lazarev.lesson4.facade.facade;
 
-import ru.lazarev.facade.document.Order;
+import ru.lazarev.lesson4.facade.document.Order;
 
 import java.util.List;
 

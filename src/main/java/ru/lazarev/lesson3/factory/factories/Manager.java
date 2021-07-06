@@ -1,6 +1,6 @@
-package ru.lazarev.facade.factories;
+package ru.lazarev.lesson3.factory.factories;
 
-import ru.lazarev.facade.document.Document;
+import ru.lazarev.lesson3.factory.document.Document;
 
 public abstract class Manager {
     protected String name;
@@ -8,10 +8,6 @@ public abstract class Manager {
 
     public String getDepartment() {
         return department;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public abstract Document createDocument();

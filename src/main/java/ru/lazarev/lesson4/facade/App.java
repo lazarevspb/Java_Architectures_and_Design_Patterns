@@ -1,11 +1,11 @@
-package ru.lazarev.facade;
+package ru.lazarev.lesson4.facade;
 
 
-import ru.lazarev.facade.document.Document;
-import ru.lazarev.facade.document.Order;
-import ru.lazarev.facade.facade.ManagerOrderService;
-import ru.lazarev.facade.factories.Manager;
-import ru.lazarev.facade.factories.ServiceManager;
+import ru.lazarev.lesson4.facade.document.Document;
+import ru.lazarev.lesson4.facade.document.Order;
+import ru.lazarev.lesson4.facade.facade.ManagerOrderService;
+import ru.lazarev.lesson4.facade.factories.Manager;
+import ru.lazarev.lesson4.facade.factories.ServiceManager;
 
 import java.util.List;
 

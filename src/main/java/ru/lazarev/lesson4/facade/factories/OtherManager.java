@@ -1,7 +1,7 @@
-package ru.lazarev.facade.factories;
+package ru.lazarev.lesson4.facade.factories;
 
-import ru.lazarev.facade.document.Document;
-import ru.lazarev.facade.document.OtherDocument;
+import ru.lazarev.lesson4.facade.document.Document;
+import ru.lazarev.lesson4.facade.document.OtherDocument;
 
 public class OtherManager extends Manager {
 

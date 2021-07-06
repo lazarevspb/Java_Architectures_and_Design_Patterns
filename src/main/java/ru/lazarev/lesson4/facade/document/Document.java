@@ -1,4 +1,4 @@
-package ru.lazarev.factory.document;
+package ru.lazarev.lesson4.facade.document;
 
 public interface Document {
     Document copy ();
